@@ -19,7 +19,7 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="눌러봐"
+        android:text="눌러봐123"
         tools:layout_editor_absoluteX="148dp"
         tools:layout_editor_absoluteY="306dp" />
 
